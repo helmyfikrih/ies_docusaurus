@@ -9,7 +9,15 @@
 
 module.exports = {
   dosenSidebar: {
-    Guide: ['dosen/proses_bimbingan_pkl', 'dosen/proses_bimbingan_skripsi'],
+    Guide: [
+      'dosen/proses_bimbingan',
+      'dosen/penilaian',
+      'dosen/perbaikan_semhas',
+      'dosen/perbaikan_sidang',
+      'dosen/perbaikan_judul_proposal',
+      'dosen/profile',
+      'dosen/report',
+    ],
   },
   mahasiswaSidebar: {
     Guide: [
