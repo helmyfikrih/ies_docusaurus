@@ -16,6 +16,12 @@ module.exports = {
       'mahasiswa/pengajuan_proposal',
       'mahasiswa/pendaftaran_semhas',
       'mahasiswa/pendaftaran_sidang',
+      'mahasiswa/proses_bimbingan',
+      'mahasiswa/perbaikan_semhas',
+      'mahasiswa/perbaikan_sidang',
+      'mahasiswa/perbaikan_judul_proposal',
+      'mahasiswa/penilaian',
+      'mahasiswa/profile',
     ],
   },
   // someSidebar: {
