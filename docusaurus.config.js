@@ -40,7 +40,7 @@ module.exports = {
         {to: 'blog', label: 'Blog', position: 'left'},
         // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/helmyfikrih/ies_docusaurus',
           label: 'GitHub',
           position: 'right',
         },
@@ -71,7 +71,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/healmeplsss',
             },
             {
               label: 'Discord',
@@ -88,7 +88,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/helmyfikrih/ies_docusaurus',
             },
           ],
         },
@@ -123,14 +123,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          editUrl: 'https://github.com/helmyfikrih/ies_docusaurus/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/helmyfikrih/ies_docusaurus/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

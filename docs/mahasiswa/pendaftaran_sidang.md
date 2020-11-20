@@ -4,26 +4,27 @@ title: Pendaftaran Sidang Skripsi
 sidebar_label: Pendaftaran Sidang Skripsi
 ---
 
-Pengajuan proposal oleh Mahasiswa. Proposal yang dapat diajukan yaitu proposal PKL dan Proposal Sripsi. Prosedur pengajuan proposal dapat dilakukan sebagai berikut.
+Pendaftaran sidang skripsi dapat diajukan oleh mahasiswa **dengan syarat sudah memiliki nilai seminar hasil skripsi**. Jika belum memiliki nilai seminar hasil skripsi maka **proposal yang akan diajukan untuk pendaftaran sidang skripsi tidak akan tersedia**. Prosedur pendaftaran sidang skripsi adalah sebagai berikut.
 
-## Pengajuan Proposal PKL
+## Pendaftaran sidang Skripsi
 
-1.  Mahasiswa login kedalam sistem.
-2.  Memilih menu pengajuan.
-3.  Pilih sub menu proposal PKL.
-4.  Klik tombol **Pengajuan** pada halaman list proposal PKL.
-5.  Melengkapi form pengajuan proposal PKL.
-6.  Klik tombol **Submit** .
-7.  Selamat proposal berhasil diajukan.
+1. Mahasiswa login kedalam sistem.
 
-## Pengajuan Proposal Skripsi
+2. Memilih menu pendaftaran.
 
-1.  Mahasiswa login kedalam sistem.
-2.  Memilih menu pengajuan.
-3.  Pilih sub menu proposal skripsi.
-4.  Klik tombol **Pengajuan** pada halaman list proposal skripsi.
-5.  Melengkapi form pengajuan proposal skripsi.
-6.  Klik tombol **Submit**
-7.  Selamat proposal berhasil diajukan.
+3. Pilih sub menu **Daftar Sidang**.
 
-Proposal yang sudah diajukan akan di tinjau oleh dosen peninjau dan kemudian dilakukan approval oleh dosen tersebut.
+4. Klik tombol **Daftar** pada halaman list pendaftaran semhas.
+
+5. Melengkapi form pendaftaran sidang skripsi pada halaman pendaftaran.
+
+6. Pstikan data yang di input sudah seusai dan benar, kemudian Klik tombol **Submit** .
+
+7. Selamat anda berhasil mendaftar untuk sidang skripsi.
+
+## Note
+
+- Prodi akan menginventarisir data pendaftaran sidang skripsi, menunjuk Dosen Penguji Sidang, dan mengkoordinasikan pelaksanaan sidang skripsi on-line.
+- Pelaksanaan sidang skripsi akan dilakukan on-line sesuai kesepakatan prodi dan dosen dengan konfirmasi ke mahasiswa ybs.
+- Administrasi surat menyurat terkait pelaksanaan sidang skripsi akan dilakukan menyusul dengan mempertimbangkan situasi dan kondisi terkait wabah Covid-19. Akan segera diberitahukan melalui WAG mahasiswa dan dosen.
+- Informasi lebih lanjut bisa ditanyakan ke Kaprodi/Sekprodi di WAG tiap angkatan.

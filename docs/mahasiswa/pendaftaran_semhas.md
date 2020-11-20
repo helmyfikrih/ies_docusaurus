@@ -4,26 +4,19 @@ title: Pendaftaran Seminar Hasil Skripsi
 sidebar_label: Pendaftaran Seminar Hasil Skripsi
 ---
 
-Pengajuan proposal oleh Mahasiswa. Proposal yang dapat diajukan yaitu proposal PKL dan Proposal Sripsi. Prosedur pengajuan proposal dapat dilakukan sebagai berikut.
+Pendaftaran seminar hasil skripsi dapat diajukan oleh mahasiswa. Prosedur pendaftaran seminar hasil skripsi adalah sebagai berikut.
 
-## Pengajuan Proposal PKL
-
-1.  Mahasiswa login kedalam sistem.
-2.  Memilih menu pengajuan.
-3.  Pilih sub menu proposal PKL.
-4.  Klik tombol **Pengajuan** pada halaman list proposal PKL.
-5.  Melengkapi form pengajuan proposal PKL.
-6.  Klik tombol **Submit** .
-7.  Selamat proposal berhasil diajukan.
-
-## Pengajuan Proposal Skripsi
+## Pendaftaran Seminar Hasils Skripsi
 
 1.  Mahasiswa login kedalam sistem.
-2.  Memilih menu pengajuan.
-3.  Pilih sub menu proposal skripsi.
-4.  Klik tombol **Pengajuan** pada halaman list proposal skripsi.
-5.  Melengkapi form pengajuan proposal skripsi.
-6.  Klik tombol **Submit**
-7.  Selamat proposal berhasil diajukan.
+2.  Memilih menu pendaftaran.
+3.  Pilih sub menu **Daftar Semhas**.
+4.  Klik tombol **Daftar** pada halaman list pendaftaran semhas.
+5.  Melengkapi form pendaftaran seminar hasil skripsi pada halaman pendaftaran.
+6.  Pstikan data yang di input sudah seusai dan benar, kemudian Klik tombol **Submit** .
+7.  Selamat anda berhasil mendaftar untuk seminar hasil skripsi.
 
-Proposal yang sudah diajukan akan di tinjau oleh dosen peninjau dan kemudian dilakukan approval oleh dosen tersebut.
+## Note
+
+- Pendaftaran yang sudah dibuat akan di lakukan peninjauan dan approval oleh program studi, mahasiswa diharapkan untuk menunggu dan melakukan pengecekan secara berkala.
+- Seminar dilaksanakan secara on-line dengan kesepakatan antara mahasiswa dan dosen dengan minimal 10 audience dari mahasiswa.
