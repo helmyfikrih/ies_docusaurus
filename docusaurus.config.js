@@ -32,7 +32,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/dosen/proses_bimbingan_pkl',
+          to: 'docs/dosen/proses_bimbingan',
           activeBasePath: 'docs/dosen/',
           label: 'Dosen Docs',
           position: 'left',
