@@ -37,13 +37,19 @@ module.exports = {
           label: 'Dosen Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://github.com/helmyfikrih/ies_docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: 'docs/prodi/approval_proposal',
+          activeBasePath: 'docs/prodi/',
+          label: 'Prodi Docs',
+          position: 'left',
         },
+        // {to: 'blog', label: 'Blog', position: 'left'},
+        // // Please keep GitHub link to the right for consistency.
+        // {
+        //   href: 'https://github.com/helmyfikrih/ies_docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {

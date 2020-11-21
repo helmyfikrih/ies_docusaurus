@@ -32,6 +32,19 @@ module.exports = {
       'mahasiswa/profile',
     ],
   },
+  prodiSidebar: {
+    Guide: [
+      'prodi/approval_proposal',
+      'prodi/approval_pendaftaran',
+      'prodi/approval_penilaian',
+      'prodi/approval_perbaikan',
+      'prodi/alokasi_dosen_peninjau_proposal',
+      'prodi/bidang_keahlian_dosen',
+      'prodi/pengumuman',
+      'prodi/profile',
+      'prodi/report',
+    ],
+  },
   // someSidebar: {
   //   Docusaurus: ['example/doc1', 'example/doc2', 'example/doc3'],
   //   Features: ['example/mdx'],
